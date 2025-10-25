@@ -1,0 +1,52 @@
+### App Store Submission ###
+
+#App Name: OKpiano
+
+
+#App Description:  
+Step into a world where music meets retro gaming! OKpiano is an innovative piano learning app that combines the charm of classic game aesthetics with cutting-edge audio technology. Designed for beginners, intermediate learners, and casual music enthusiasts, OKpiano offers an engaging, gamified approach to mastering piano basics.
+
+
+#Key Features:
+- Retro Gaming-Inspired Interface: Immerse yourself in a user interface inspired by the Nintendo DS, complete with intuitive virtual buttons and customizable themes.
+- Virtual Piano Keyboard: Explore a high-quality, responsive virtual keyboard that lets you experiment with various tones and sound effects.
+- Gamified Learning: Boost your skills with interactive challenges, quizzes, and practice modes that make learning piano fun and rewarding.
+- Personalized Soundscapes: Customize your experience with adjustable sound effects, including reverb, vibrato, and delay.
+- Fragmented Learning: Perfect for busy schedules, OKpiano's quick sessions make it easy to practice anytime, anywhere.
+- Educational and Entertaining: Designed to blend fun and functionality, OKpiano helps users learn while enjoying an immersive experience.
+
+Why Choose OKpiano?  
+OKpiano stands out as a perfect blend of education and nostalgia. Whether you're a beginner discovering piano for the first time or a music enthusiast exploring new ways to create, OKpiano provides the tools and the excitement to make your musical journey memorable.
+
+Start your adventure with OKpiano and turn learning into play. Download now and make every note count!
+
+
+#Primary and Secondary Category:  
+- Primary: Education  
+- Secondary: Music  
+
+
+#Subcategories: Musical Instruments, Music Education
+
+
+#Copyright:  
+Copyright © 2025 [Jayson Chen]. All rights reserved.
+
+
+#App Rating: Rated 4+ (Suitable for all ages, no objectionable content)
+
+
+#Keywords: Piano, Music Learning, Retro Gaming, Gamified Education, Sound Effects, Interactive Piano, Nintendo DS Inspired, Music Practice
+
+
+#SKU Number: OKP2025
+
+
+#Pricing: Free with in-app purchases  
+
+
+#Available Date: January 20, 2025
+
+
+#Territories: Available worldwide in all regions supported by the Apple App Store.
+
