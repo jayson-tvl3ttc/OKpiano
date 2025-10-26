@@ -83,3 +83,25 @@ Planned updates include:
 
 ## Screenshots
 <img width="753" height="475" alt="okpiano" src="https://github.com/user-attachments/assets/2d0f709c-6dcd-4ac6-91b4-869d1dd562ac" />
+
+---
+
+##  Author
+
+**Jayson Chen**  
+Master’s in Audio and Music Technology  
+University of York  
+
+Contact: *[jaysonchen816@gmail.com]*  
+
+
+---
+
+##  License
+
+This project is released under the **MIT License**.  
+You are free to use, modify, and distribute it with attribution.
+
+---
+
+© 2025 Jayson Chen. All rights reserved.
