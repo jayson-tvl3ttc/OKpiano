@@ -1,6 +1,5 @@
 # OKpiano  
 **Integrating Retro Gaming Design with Modern Piano Education**  
-Developed by **Jayson**
 
 ---
 
