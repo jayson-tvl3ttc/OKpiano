@@ -5,6 +5,8 @@ Developed by **Jayson**
 ---
 
 ## 🕹️ Introduction
+<img width="96" height="96" alt="icon" src="https://github.com/user-attachments/assets/80be125e-1636-41e2-9771-490c0ee92c78" />
+
 **OKpiano** is a uniquely designed piano learning and practice app that combines the charm of retro **Nintendo DS** aesthetics with modern piano education principles. It transforms piano practice into an engaging, gamified experience — merging nostalgia and technology to make piano learning intuitive, flexible, and fun. Targeted at beginners and casual players, OKpiano offers quick, accessible practice sessions for users who prefer to learn anytime, anywhere.
 
 ---
@@ -79,3 +81,5 @@ Planned updates include:
 
 ---
 
+## 📷 Screenshots
+<img width="753" height="475" alt="okpiano" src="https://github.com/user-attachments/assets/2d0f709c-6dcd-4ac6-91b4-869d1dd562ac" />
