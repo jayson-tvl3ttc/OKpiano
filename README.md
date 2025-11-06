@@ -10,7 +10,12 @@
 
 ---
 
+
 ## App Design Overview
+
+### User Interface
+
+<img width="753" height="475" alt="okpiano" src="https://github.com/user-attachments/assets/2d0f709c-6dcd-4ac6-91b4-869d1dd562ac" />
 
 ### Core Features
 - **Retro Game-Inspired Interface**  
@@ -78,10 +83,7 @@ Planned updates include:
 | UI | UIKit + custom assets |
 | Platform | iOS |
 
----
 
-## Screenshots
-<img width="753" height="475" alt="okpiano" src="https://github.com/user-attachments/assets/2d0f709c-6dcd-4ac6-91b4-869d1dd562ac" />
 
 ---
 
