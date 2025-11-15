@@ -47,7 +47,7 @@
 - **Audio Engine:** [AudioKit v5.6.2](https://github.com/AudioKit) for sound synthesis and effects  
 - **Tested on:** iPhone 13 Simulator and Device  
 - **Architecture:**  
-  - Core logic handled in a single `ViewController` class  
+  - Core logic handled in a `ViewController` class  
   - Modular sub-functions for display updates, random question generation, answer checking, and audio control  
   - Real-time linkage between user input and audio processing  
 
